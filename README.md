@@ -1,1 +1,1 @@
-# Java
+# Rental Cost Calculator
